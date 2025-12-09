@@ -1,0 +1,1 @@
+Developed a classification model in Python, using Isolation Forest for data cleaning. Implemented Ensemble Models to optimize performance, ensuring interpretability and fairness through Independence, Separation, and Sufficiency metrics.
